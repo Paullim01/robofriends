@@ -5,10 +5,10 @@
   "homepage": "https://paullim01.github.io/robofriends/",
   "dependencies": {
     "gh-pages": "^2.0.1",
-    "react": "^16.4.1",
-    "react-dom": "^16.4.1",
+    "react": "^16.8.3",
+    "react-dom": "^16.8.3",
     "react-scripts": "1.1.4",
-    "tachyons": "^4.11.0"
+    "tachyons": "^4.11.1"
   },
   "scripts": {
     "start": "react-scripts start",
